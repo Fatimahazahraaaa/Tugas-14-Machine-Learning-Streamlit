@@ -71,7 +71,7 @@ streamlit run spam.py
 ## 🌐 Deployment Online
 
 Aplikasi ini dapat diakses secara publik melalui Streamlit Cloud.
-🔗 [Klik di sini untuk melihat aplikasi yang sudah dideploy]((https://fatimah.streamlit.app/))
+🔗 [Klik di sini untuk melihat aplikasi yang sudah dideploy](https://fatimah.streamlit.app/)
 
 
 

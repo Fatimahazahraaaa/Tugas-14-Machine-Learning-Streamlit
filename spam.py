@@ -52,5 +52,5 @@ if st.button("🔍 Deteksi Sekarang"):
 # Footer
 st.markdown("""
 ---
-<small>Developed with ❤️ by Fatima & Angle</small>
+<small>Developed with ❤️ by Fatima </small>
 """, unsafe_allow_html=True)
